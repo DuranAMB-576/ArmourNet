@@ -1,0 +1,130 @@
+.home-title
+{
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.new-identity-registration
+{
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.new-vehicle-registration
+{
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.registration-database
+{
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+/*------------------------------Character Sheet----------------------------------*/
+.character-info
+{
+
+}
+
+.identity-title
+{
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.character-miri
+{
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+}
+
+.ecul
+{
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+}
+
+.char-xp
+{
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+}
+
+.character-info h2
+{
+   font-family: 'osifontMedium';
+   font-weight: bold;
+   font-style: normal;
+   font-size: 30px;
+   text-shadow: 2px 2px #d5dbdb;
+}
+
+.miri
+{
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    text-shadow: 2px 2px #d5dbdb;
+}
+.character-miri h2
+{
+   font-family: 'osifontMedium';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 20px;
+   text-shadow: 2px 2px #d5dbdb;
+}
+.aptitude
+{
+
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.char-xp h2
+{
+    font-family: 'osifontMedium';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.ecul-title
+{
+
+    font-family: 'BaraliktoRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    text-shadow: 2px 2px #d5dbdb;
+}
+
+.ecul h2
+{
+    font-family: 'osifontMedium';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    text-shadow: 2px 2px #d5dbdb;
+}
